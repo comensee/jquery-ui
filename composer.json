@@ -1,0 +1,16 @@
+{
+    "name": "comensee/jquery-ui",
+    "description": "Simple Bundle with composer.json added",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Alain Bangoula",
+            "email": "alain.bangoula@come-n-see.fr"
+        }
+    ],
+    "require": {
+
+    },
+    "target-dir": "CNSEE/JQueryUiBundle",
+}
+
